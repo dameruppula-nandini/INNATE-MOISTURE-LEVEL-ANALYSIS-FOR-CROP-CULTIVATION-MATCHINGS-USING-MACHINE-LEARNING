@@ -1,0 +1,5 @@
+python -m venv NEW-VENV 
+NEW-VENV\Scripts\activate
+pip install ipykernel
+pip install ipykernel
+streamlit run app.py
